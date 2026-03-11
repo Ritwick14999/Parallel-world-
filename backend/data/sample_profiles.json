@@ -1,0 +1,5473 @@
+[
+  {
+    "id": 1,
+    "name": "Sample User 1",
+    "profile": {
+      "age": 28,
+      "location": "UK",
+      "skills": [
+        "leadership",
+        "public speaking",
+        "python",
+        "communication"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom",
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder",
+        "indie_hacker",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 12,
+    "seed": 1487
+  },
+  {
+    "id": 2,
+    "name": "Sample User 2",
+    "profile": {
+      "age": 35,
+      "location": "US",
+      "skills": [
+        "python",
+        "statistics",
+        "communication",
+        "system design",
+        "cloud",
+        "leadership"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 600,
+    "years": 15,
+    "seed": 9180
+  },
+  {
+    "id": 3,
+    "name": "Sample User 3",
+    "profile": {
+      "age": 23,
+      "location": "Germany",
+      "skills": [
+        "statistics",
+        "cloud",
+        "public speaking"
+      ],
+      "goals": [
+        "work-life balance",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "startup_founder",
+        "indie_hacker",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 20,
+    "seed": 7006
+  },
+  {
+    "id": 4,
+    "name": "Sample User 4",
+    "profile": {
+      "age": 28,
+      "location": "US",
+      "skills": [
+        "statistics",
+        "writing",
+        "product thinking",
+        "data analysis",
+        "system design",
+        "ml"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact",
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 20,
+    "seed": 6851
+  },
+  {
+    "id": 5,
+    "name": "Sample User 5",
+    "profile": {
+      "age": 23,
+      "location": "US",
+      "skills": [
+        "ml",
+        "writing",
+        "leadership",
+        "python",
+        "communication"
+      ],
+      "goals": [
+        "work-life balance",
+        "freedom",
+        "entrepreneurship",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 18,
+    "seed": 1065
+  },
+  {
+    "id": 6,
+    "name": "Sample User 6",
+    "profile": {
+      "age": 19,
+      "location": "Netherlands",
+      "skills": [
+        "public speaking",
+        "statistics",
+        "cloud",
+        "writing",
+        "data analysis"
+      ],
+      "goals": [
+        "global career",
+        "work-life balance",
+        "freedom",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 12,
+    "seed": 4710
+  },
+  {
+    "id": 7,
+    "name": "Sample User 7",
+    "profile": {
+      "age": 22,
+      "location": "Singapore",
+      "skills": [
+        "leadership",
+        "cloud",
+        "writing",
+        "communication"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "research_scientist",
+        "crypto_trader"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 5879
+  },
+  {
+    "id": 8,
+    "name": "Sample User 8",
+    "profile": {
+      "age": 30,
+      "location": "Singapore",
+      "skills": [
+        "ml",
+        "communication",
+        "cloud",
+        "public speaking"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 12,
+    "seed": 6865
+  },
+  {
+    "id": 9,
+    "name": "Sample User 9",
+    "profile": {
+      "age": 35,
+      "location": "US",
+      "skills": [
+        "statistics",
+        "cloud",
+        "product thinking",
+        "ml",
+        "research"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise",
+        "work-life balance",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "indie_hacker"
+      ]
+    },
+    "universes": 500,
+    "years": 18,
+    "seed": 1020
+  },
+  {
+    "id": 10,
+    "name": "Sample User 10",
+    "profile": {
+      "age": 24,
+      "location": "Canada",
+      "skills": [
+        "system design",
+        "writing",
+        "ml"
+      ],
+      "goals": [
+        "work-life balance",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 5958
+  },
+  {
+    "id": 11,
+    "name": "Sample User 11",
+    "profile": {
+      "age": 18,
+      "location": "Netherlands",
+      "skills": [
+        "system design",
+        "statistics",
+        "leadership"
+      ],
+      "goals": [
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "startup_founder",
+        "indie_hacker"
+      ]
+    },
+    "universes": 500,
+    "years": 18,
+    "seed": 7928
+  },
+  {
+    "id": 12,
+    "name": "Sample User 12",
+    "profile": {
+      "age": 27,
+      "location": "India",
+      "skills": [
+        "ml",
+        "communication",
+        "product thinking"
+      ],
+      "goals": [
+        "leadership",
+        "deep expertise",
+        "work-life balance",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "ms_then_industry",
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 20,
+    "seed": 4884
+  },
+  {
+    "id": 13,
+    "name": "Sample User 13",
+    "profile": {
+      "age": 20,
+      "location": "Germany",
+      "skills": [
+        "research",
+        "product thinking",
+        "ml",
+        "networking",
+        "system design"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship",
+        "financial stability",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 300,
+    "years": 20,
+    "seed": 8074
+  },
+  {
+    "id": 14,
+    "name": "Sample User 14",
+    "profile": {
+      "age": 29,
+      "location": "US",
+      "skills": [
+        "python",
+        "data analysis",
+        "writing"
+      ],
+      "goals": [
+        "deep expertise",
+        "work-life balance",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 3717
+  },
+  {
+    "id": 15,
+    "name": "Sample User 15",
+    "profile": {
+      "age": 33,
+      "location": "Germany",
+      "skills": [
+        "product thinking",
+        "system design",
+        "writing",
+        "statistics"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise",
+        "work-life balance",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader",
+        "research_scientist",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 12,
+    "seed": 7110
+  },
+  {
+    "id": 16,
+    "name": "Sample User 16",
+    "profile": {
+      "age": 28,
+      "location": "Canada",
+      "skills": [
+        "cloud",
+        "networking",
+        "leadership"
+      ],
+      "goals": [
+        "global career",
+        "work-life balance",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "indie_hacker",
+        "startup_founder"
+      ]
+    },
+    "universes": 600,
+    "years": 18,
+    "seed": 2395
+  },
+  {
+    "id": 17,
+    "name": "Sample User 17",
+    "profile": {
+      "age": 33,
+      "location": "India",
+      "skills": [
+        "ml",
+        "research",
+        "networking",
+        "cloud",
+        "python"
+      ],
+      "goals": [
+        "financial stability",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 4800
+  },
+  {
+    "id": 18,
+    "name": "Sample User 18",
+    "profile": {
+      "age": 34,
+      "location": "Canada",
+      "skills": [
+        "cloud",
+        "statistics",
+        "product thinking",
+        "data analysis"
+      ],
+      "goals": [
+        "global career",
+        "entrepreneurship",
+        "financial stability",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "indie_hacker",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 8578
+  },
+  {
+    "id": 19,
+    "name": "Sample User 19",
+    "profile": {
+      "age": 34,
+      "location": "US",
+      "skills": [
+        "writing",
+        "ml",
+        "statistics"
+      ],
+      "goals": [
+        "freedom",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 5341
+  },
+  {
+    "id": 20,
+    "name": "Sample User 20",
+    "profile": {
+      "age": 34,
+      "location": "Netherlands",
+      "skills": [
+        "cloud",
+        "communication",
+        "research",
+        "python",
+        "system design",
+        "public speaking"
+      ],
+      "goals": [
+        "impact",
+        "global career",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker",
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 400,
+    "years": 20,
+    "seed": 8283
+  },
+  {
+    "id": 21,
+    "name": "Sample User 21",
+    "profile": {
+      "age": 34,
+      "location": "Canada",
+      "skills": [
+        "networking",
+        "data analysis",
+        "writing",
+        "research"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "leadership",
+        "financial stability",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 500,
+    "years": 10,
+    "seed": 6429
+  },
+  {
+    "id": 22,
+    "name": "Sample User 22",
+    "profile": {
+      "age": 32,
+      "location": "Canada",
+      "skills": [
+        "communication",
+        "public speaking",
+        "system design",
+        "leadership",
+        "cloud"
+      ],
+      "goals": [
+        "leadership",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 7664
+  },
+  {
+    "id": 23,
+    "name": "Sample User 23",
+    "profile": {
+      "age": 25,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "writing",
+        "ml"
+      ],
+      "goals": [
+        "deep expertise",
+        "financial stability",
+        "work-life balance",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 5996
+  },
+  {
+    "id": 24,
+    "name": "Sample User 24",
+    "profile": {
+      "age": 18,
+      "location": "US",
+      "skills": [
+        "research",
+        "writing",
+        "networking",
+        "python",
+        "leadership"
+      ],
+      "goals": [
+        "leadership",
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 649
+  },
+  {
+    "id": 25,
+    "name": "Sample User 25",
+    "profile": {
+      "age": 23,
+      "location": "Canada",
+      "skills": [
+        "cloud",
+        "ml",
+        "leadership",
+        "data analysis",
+        "public speaking"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 500,
+    "years": 10,
+    "seed": 4407
+  },
+  {
+    "id": 26,
+    "name": "Sample User 26",
+    "profile": {
+      "age": 18,
+      "location": "Singapore",
+      "skills": [
+        "cloud",
+        "data analysis",
+        "communication"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact",
+        "freedom",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 708
+  },
+  {
+    "id": 27,
+    "name": "Sample User 27",
+    "profile": {
+      "age": 34,
+      "location": "Netherlands",
+      "skills": [
+        "communication",
+        "ml",
+        "data analysis",
+        "python"
+      ],
+      "goals": [
+        "deep expertise",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "indie_hacker",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 4433
+  },
+  {
+    "id": 28,
+    "name": "Sample User 28",
+    "profile": {
+      "age": 29,
+      "location": "UK",
+      "skills": [
+        "data analysis",
+        "python",
+        "networking"
+      ],
+      "goals": [
+        "deep expertise",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 8945
+  },
+  {
+    "id": 29,
+    "name": "Sample User 29",
+    "profile": {
+      "age": 30,
+      "location": "Singapore",
+      "skills": [
+        "networking",
+        "system design",
+        "cloud",
+        "product thinking",
+        "public speaking"
+      ],
+      "goals": [
+        "freedom",
+        "deep expertise",
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 500,
+    "years": 12,
+    "seed": 908
+  },
+  {
+    "id": 30,
+    "name": "Sample User 30",
+    "profile": {
+      "age": 20,
+      "location": "India",
+      "skills": [
+        "research",
+        "public speaking",
+        "data analysis",
+        "statistics",
+        "system design",
+        "networking"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 5390
+  },
+  {
+    "id": 31,
+    "name": "Sample User 31",
+    "profile": {
+      "age": 35,
+      "location": "Germany",
+      "skills": [
+        "system design",
+        "python",
+        "data analysis",
+        "cloud",
+        "product thinking"
+      ],
+      "goals": [
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "research_scientist",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 20,
+    "seed": 82
+  },
+  {
+    "id": 32,
+    "name": "Sample User 32",
+    "profile": {
+      "age": 20,
+      "location": "UK",
+      "skills": [
+        "communication",
+        "ml",
+        "leadership",
+        "statistics",
+        "python"
+      ],
+      "goals": [
+        "impact",
+        "freedom",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 1000,
+    "years": 15,
+    "seed": 8097
+  },
+  {
+    "id": 33,
+    "name": "Sample User 33",
+    "profile": {
+      "age": 22,
+      "location": "India",
+      "skills": [
+        "networking",
+        "statistics",
+        "public speaking",
+        "ml",
+        "python"
+      ],
+      "goals": [
+        "global career",
+        "work-life balance",
+        "entrepreneurship",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 20,
+    "seed": 3768
+  },
+  {
+    "id": 34,
+    "name": "Sample User 34",
+    "profile": {
+      "age": 20,
+      "location": "Singapore",
+      "skills": [
+        "python",
+        "ml",
+        "public speaking"
+      ],
+      "goals": [
+        "financial stability",
+        "deep expertise",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 1149
+  },
+  {
+    "id": 35,
+    "name": "Sample User 35",
+    "profile": {
+      "age": 34,
+      "location": "Germany",
+      "skills": [
+        "public speaking",
+        "research",
+        "communication"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "freedom",
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 8093
+  },
+  {
+    "id": 36,
+    "name": "Sample User 36",
+    "profile": {
+      "age": 30,
+      "location": "Singapore",
+      "skills": [
+        "writing",
+        "public speaking",
+        "data analysis"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer",
+        "indie_hacker",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 20,
+    "seed": 2187
+  },
+  {
+    "id": 37,
+    "name": "Sample User 37",
+    "profile": {
+      "age": 18,
+      "location": "Singapore",
+      "skills": [
+        "python",
+        "writing",
+        "data analysis",
+        "communication",
+        "system design",
+        "networking"
+      ],
+      "goals": [
+        "leadership",
+        "deep expertise",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 287
+  },
+  {
+    "id": 38,
+    "name": "Sample User 38",
+    "profile": {
+      "age": 27,
+      "location": "Singapore",
+      "skills": [
+        "communication",
+        "research",
+        "writing",
+        "data analysis",
+        "leadership",
+        "system design"
+      ],
+      "goals": [
+        "financial stability",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 9886
+  },
+  {
+    "id": 39,
+    "name": "Sample User 39",
+    "profile": {
+      "age": 34,
+      "location": "UK",
+      "skills": [
+        "communication",
+        "networking",
+        "product thinking",
+        "system design",
+        "writing"
+      ],
+      "goals": [
+        "global career",
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 6819
+  },
+  {
+    "id": 40,
+    "name": "Sample User 40",
+    "profile": {
+      "age": 29,
+      "location": "Singapore",
+      "skills": [
+        "product thinking",
+        "communication",
+        "cloud",
+        "python",
+        "public speaking",
+        "research"
+      ],
+      "goals": [
+        "financial stability",
+        "entrepreneurship",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 6438
+  },
+  {
+    "id": 41,
+    "name": "Sample User 41",
+    "profile": {
+      "age": 30,
+      "location": "Canada",
+      "skills": [
+        "product thinking",
+        "leadership",
+        "data analysis"
+      ],
+      "goals": [
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 7148
+  },
+  {
+    "id": 42,
+    "name": "Sample User 42",
+    "profile": {
+      "age": 34,
+      "location": "Singapore",
+      "skills": [
+        "system design",
+        "product thinking",
+        "leadership",
+        "python",
+        "public speaking"
+      ],
+      "goals": [
+        "deep expertise",
+        "work-life balance",
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 10,
+    "seed": 9013
+  },
+  {
+    "id": 43,
+    "name": "Sample User 43",
+    "profile": {
+      "age": 22,
+      "location": "Netherlands",
+      "skills": [
+        "writing",
+        "leadership",
+        "product thinking",
+        "data analysis"
+      ],
+      "goals": [
+        "leadership",
+        "work-life balance",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 18,
+    "seed": 1962
+  },
+  {
+    "id": 44,
+    "name": "Sample User 44",
+    "profile": {
+      "age": 23,
+      "location": "Germany",
+      "skills": [
+        "communication",
+        "system design",
+        "research",
+        "writing"
+      ],
+      "goals": [
+        "deep expertise",
+        "entrepreneurship",
+        "freedom",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 12,
+    "seed": 5603
+  },
+  {
+    "id": 45,
+    "name": "Sample User 45",
+    "profile": {
+      "age": 35,
+      "location": "UK",
+      "skills": [
+        "product thinking",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 1017
+  },
+  {
+    "id": 46,
+    "name": "Sample User 46",
+    "profile": {
+      "age": 33,
+      "location": "Singapore",
+      "skills": [
+        "statistics",
+        "product thinking",
+        "ml",
+        "research",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact",
+        "freedom",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "indie_hacker"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 2085
+  },
+  {
+    "id": 47,
+    "name": "Sample User 47",
+    "profile": {
+      "age": 19,
+      "location": "Canada",
+      "skills": [
+        "networking",
+        "writing",
+        "statistics",
+        "cloud",
+        "python",
+        "communication"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "deep expertise",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 7493
+  },
+  {
+    "id": 48,
+    "name": "Sample User 48",
+    "profile": {
+      "age": 20,
+      "location": "UK",
+      "skills": [
+        "python",
+        "ml",
+        "system design"
+      ],
+      "goals": [
+        "impact",
+        "work-life balance",
+        "global career",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 1630
+  },
+  {
+    "id": 49,
+    "name": "Sample User 49",
+    "profile": {
+      "age": 20,
+      "location": "Germany",
+      "skills": [
+        "research",
+        "statistics",
+        "system design",
+        "leadership",
+        "data analysis"
+      ],
+      "goals": [
+        "impact",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 500,
+    "years": 20,
+    "seed": 3847
+  },
+  {
+    "id": 50,
+    "name": "Sample User 50",
+    "profile": {
+      "age": 35,
+      "location": "Singapore",
+      "skills": [
+        "python",
+        "leadership",
+        "public speaking",
+        "data analysis"
+      ],
+      "goals": [
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 6066
+  },
+  {
+    "id": 51,
+    "name": "Sample User 51",
+    "profile": {
+      "age": 25,
+      "location": "Germany",
+      "skills": [
+        "python",
+        "networking",
+        "product thinking",
+        "leadership",
+        "public speaking",
+        "statistics"
+      ],
+      "goals": [
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "indie_hacker",
+        "startup_founder"
+      ]
+    },
+    "universes": 500,
+    "years": 12,
+    "seed": 5108
+  },
+  {
+    "id": 52,
+    "name": "Sample User 52",
+    "profile": {
+      "age": 24,
+      "location": "UK",
+      "skills": [
+        "writing",
+        "system design",
+        "data analysis",
+        "public speaking"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 9746
+  },
+  {
+    "id": 53,
+    "name": "Sample User 53",
+    "profile": {
+      "age": 22,
+      "location": "US",
+      "skills": [
+        "python",
+        "system design",
+        "cloud",
+        "statistics",
+        "ml",
+        "leadership"
+      ],
+      "goals": [
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 3125
+  },
+  {
+    "id": 54,
+    "name": "Sample User 54",
+    "profile": {
+      "age": 23,
+      "location": "Australia",
+      "skills": [
+        "python",
+        "data analysis",
+        "public speaking",
+        "leadership",
+        "product thinking",
+        "research"
+      ],
+      "goals": [
+        "freedom",
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 500,
+    "years": 10,
+    "seed": 9194
+  },
+  {
+    "id": 55,
+    "name": "Sample User 55",
+    "profile": {
+      "age": 24,
+      "location": "Netherlands",
+      "skills": [
+        "product thinking",
+        "data analysis",
+        "leadership",
+        "communication",
+        "python",
+        "writing"
+      ],
+      "goals": [
+        "work-life balance",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 4064
+  },
+  {
+    "id": 56,
+    "name": "Sample User 56",
+    "profile": {
+      "age": 30,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "python",
+        "writing"
+      ],
+      "goals": [
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 5489
+  },
+  {
+    "id": 57,
+    "name": "Sample User 57",
+    "profile": {
+      "age": 19,
+      "location": "Netherlands",
+      "skills": [
+        "networking",
+        "cloud",
+        "product thinking",
+        "data analysis",
+        "statistics"
+      ],
+      "goals": [
+        "financial stability",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "research_scientist"
+      ]
+    },
+    "universes": 1000,
+    "years": 18,
+    "seed": 4114
+  },
+  {
+    "id": 58,
+    "name": "Sample User 58",
+    "profile": {
+      "age": 31,
+      "location": "UK",
+      "skills": [
+        "ml",
+        "writing",
+        "cloud",
+        "python",
+        "data analysis",
+        "public speaking"
+      ],
+      "goals": [
+        "deep expertise",
+        "freedom",
+        "global career",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 4052
+  },
+  {
+    "id": 59,
+    "name": "Sample User 59",
+    "profile": {
+      "age": 31,
+      "location": "US",
+      "skills": [
+        "public speaking",
+        "python",
+        "writing"
+      ],
+      "goals": [
+        "work-life balance",
+        "financial stability",
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 6899
+  },
+  {
+    "id": 60,
+    "name": "Sample User 60",
+    "profile": {
+      "age": 33,
+      "location": "Singapore",
+      "skills": [
+        "ml",
+        "system design",
+        "cloud",
+        "leadership",
+        "writing",
+        "networking"
+      ],
+      "goals": [
+        "financial stability",
+        "global career",
+        "freedom",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 800,
+    "years": 15,
+    "seed": 3264
+  },
+  {
+    "id": 61,
+    "name": "Sample User 61",
+    "profile": {
+      "age": 32,
+      "location": "US",
+      "skills": [
+        "ml",
+        "system design",
+        "networking",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "freedom",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 607
+  },
+  {
+    "id": 62,
+    "name": "Sample User 62",
+    "profile": {
+      "age": 21,
+      "location": "Germany",
+      "skills": [
+        "writing",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "impact",
+        "freedom",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 8400
+  },
+  {
+    "id": 63,
+    "name": "Sample User 63",
+    "profile": {
+      "age": 23,
+      "location": "Singapore",
+      "skills": [
+        "statistics",
+        "data analysis",
+        "public speaking",
+        "python",
+        "communication",
+        "product thinking"
+      ],
+      "goals": [
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 20,
+    "seed": 3334
+  },
+  {
+    "id": 64,
+    "name": "Sample User 64",
+    "profile": {
+      "age": 18,
+      "location": "UK",
+      "skills": [
+        "leadership",
+        "public speaking",
+        "product thinking",
+        "ml",
+        "data analysis"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 9014
+  },
+  {
+    "id": 65,
+    "name": "Sample User 65",
+    "profile": {
+      "age": 22,
+      "location": "UK",
+      "skills": [
+        "public speaking",
+        "ml",
+        "leadership"
+      ],
+      "goals": [
+        "leadership",
+        "deep expertise",
+        "freedom",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 500,
+    "years": 10,
+    "seed": 5961
+  },
+  {
+    "id": 66,
+    "name": "Sample User 66",
+    "profile": {
+      "age": 24,
+      "location": "Canada",
+      "skills": [
+        "networking",
+        "leadership",
+        "system design",
+        "python",
+        "cloud",
+        "ml"
+      ],
+      "goals": [
+        "financial stability",
+        "global career",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "research_scientist"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 847
+  },
+  {
+    "id": 67,
+    "name": "Sample User 67",
+    "profile": {
+      "age": 35,
+      "location": "Canada",
+      "skills": [
+        "public speaking",
+        "leadership",
+        "communication",
+        "statistics"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship",
+        "leadership",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 1100
+  },
+  {
+    "id": 68,
+    "name": "Sample User 68",
+    "profile": {
+      "age": 21,
+      "location": "Germany",
+      "skills": [
+        "writing",
+        "system design",
+        "data analysis",
+        "ml",
+        "python",
+        "cloud"
+      ],
+      "goals": [
+        "impact",
+        "leadership",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 600,
+    "years": 18,
+    "seed": 3214
+  },
+  {
+    "id": 69,
+    "name": "Sample User 69",
+    "profile": {
+      "age": 33,
+      "location": "India",
+      "skills": [
+        "statistics",
+        "system design",
+        "python",
+        "leadership"
+      ],
+      "goals": [
+        "freedom",
+        "deep expertise",
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 5312
+  },
+  {
+    "id": 70,
+    "name": "Sample User 70",
+    "profile": {
+      "age": 21,
+      "location": "India",
+      "skills": [
+        "statistics",
+        "writing",
+        "research",
+        "data analysis",
+        "leadership",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "entrepreneurship",
+        "global career",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 20,
+    "seed": 8020
+  },
+  {
+    "id": 71,
+    "name": "Sample User 71",
+    "profile": {
+      "age": 32,
+      "location": "Australia",
+      "skills": [
+        "writing",
+        "statistics",
+        "cloud",
+        "ml"
+      ],
+      "goals": [
+        "global career",
+        "impact",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 8264
+  },
+  {
+    "id": 72,
+    "name": "Sample User 72",
+    "profile": {
+      "age": 34,
+      "location": "UK",
+      "skills": [
+        "python",
+        "public speaking",
+        "ml"
+      ],
+      "goals": [
+        "work-life balance",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 424
+  },
+  {
+    "id": 73,
+    "name": "Sample User 73",
+    "profile": {
+      "age": 20,
+      "location": "Singapore",
+      "skills": [
+        "system design",
+        "ml",
+        "writing"
+      ],
+      "goals": [
+        "freedom",
+        "work-life balance",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 4506
+  },
+  {
+    "id": 74,
+    "name": "Sample User 74",
+    "profile": {
+      "age": 32,
+      "location": "Canada",
+      "skills": [
+        "data analysis",
+        "research",
+        "writing",
+        "system design"
+      ],
+      "goals": [
+        "leadership",
+        "entrepreneurship",
+        "global career",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 500,
+    "years": 12,
+    "seed": 4558
+  },
+  {
+    "id": 75,
+    "name": "Sample User 75",
+    "profile": {
+      "age": 28,
+      "location": "Australia",
+      "skills": [
+        "ml",
+        "data analysis",
+        "communication",
+        "research",
+        "python",
+        "product thinking"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 5903
+  },
+  {
+    "id": 76,
+    "name": "Sample User 76",
+    "profile": {
+      "age": 28,
+      "location": "India",
+      "skills": [
+        "writing",
+        "system design",
+        "ml"
+      ],
+      "goals": [
+        "impact",
+        "freedom",
+        "leadership",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "indie_hacker",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 3632
+  },
+  {
+    "id": 77,
+    "name": "Sample User 77",
+    "profile": {
+      "age": 22,
+      "location": "India",
+      "skills": [
+        "statistics",
+        "public speaking",
+        "leadership",
+        "networking",
+        "research"
+      ],
+      "goals": [
+        "impact",
+        "financial stability",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 10,
+    "seed": 9292
+  },
+  {
+    "id": 78,
+    "name": "Sample User 78",
+    "profile": {
+      "age": 29,
+      "location": "Netherlands",
+      "skills": [
+        "communication",
+        "research",
+        "product thinking",
+        "networking",
+        "system design"
+      ],
+      "goals": [
+        "leadership",
+        "entrepreneurship",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 300,
+    "years": 12,
+    "seed": 232
+  },
+  {
+    "id": 79,
+    "name": "Sample User 79",
+    "profile": {
+      "age": 25,
+      "location": "Australia",
+      "skills": [
+        "writing",
+        "communication",
+        "networking",
+        "ml"
+      ],
+      "goals": [
+        "leadership",
+        "deep expertise",
+        "freedom",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 20,
+    "seed": 7271
+  },
+  {
+    "id": 80,
+    "name": "Sample User 80",
+    "profile": {
+      "age": 34,
+      "location": "Germany",
+      "skills": [
+        "system design",
+        "ml",
+        "python",
+        "public speaking",
+        "statistics",
+        "research"
+      ],
+      "goals": [
+        "freedom",
+        "financial stability",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 3269
+  },
+  {
+    "id": 81,
+    "name": "Sample User 81",
+    "profile": {
+      "age": 34,
+      "location": "Netherlands",
+      "skills": [
+        "statistics",
+        "ml",
+        "research",
+        "data analysis",
+        "communication",
+        "cloud"
+      ],
+      "goals": [
+        "impact",
+        "work-life balance",
+        "deep expertise",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 2874
+  },
+  {
+    "id": 82,
+    "name": "Sample User 82",
+    "profile": {
+      "age": 25,
+      "location": "UK",
+      "skills": [
+        "data analysis",
+        "system design",
+        "public speaking"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer",
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 4347
+  },
+  {
+    "id": 83,
+    "name": "Sample User 83",
+    "profile": {
+      "age": 27,
+      "location": "Germany",
+      "skills": [
+        "communication",
+        "research",
+        "python",
+        "ml"
+      ],
+      "goals": [
+        "deep expertise",
+        "global career",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 15,
+    "seed": 9851
+  },
+  {
+    "id": 84,
+    "name": "Sample User 84",
+    "profile": {
+      "age": 25,
+      "location": "UK",
+      "skills": [
+        "public speaking",
+        "networking",
+        "cloud",
+        "research",
+        "writing",
+        "statistics"
+      ],
+      "goals": [
+        "impact",
+        "global career",
+        "entrepreneurship",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 600,
+    "years": 20,
+    "seed": 1275
+  },
+  {
+    "id": 85,
+    "name": "Sample User 85",
+    "profile": {
+      "age": 23,
+      "location": "India",
+      "skills": [
+        "python",
+        "cloud",
+        "communication",
+        "public speaking"
+      ],
+      "goals": [
+        "freedom",
+        "entrepreneurship",
+        "financial stability",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 765
+  },
+  {
+    "id": 86,
+    "name": "Sample User 86",
+    "profile": {
+      "age": 20,
+      "location": "India",
+      "skills": [
+        "system design",
+        "research",
+        "public speaking",
+        "communication",
+        "leadership"
+      ],
+      "goals": [
+        "deep expertise",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 4709
+  },
+  {
+    "id": 87,
+    "name": "Sample User 87",
+    "profile": {
+      "age": 33,
+      "location": "Australia",
+      "skills": [
+        "ml",
+        "communication",
+        "public speaking"
+      ],
+      "goals": [
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 794
+  },
+  {
+    "id": 88,
+    "name": "Sample User 88",
+    "profile": {
+      "age": 29,
+      "location": "Netherlands",
+      "skills": [
+        "cloud",
+        "statistics",
+        "research",
+        "writing",
+        "data analysis"
+      ],
+      "goals": [
+        "impact",
+        "global career",
+        "deep expertise",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 8813
+  },
+  {
+    "id": 89,
+    "name": "Sample User 89",
+    "profile": {
+      "age": 24,
+      "location": "Netherlands",
+      "skills": [
+        "statistics",
+        "data analysis",
+        "ml"
+      ],
+      "goals": [
+        "impact",
+        "leadership",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 3024
+  },
+  {
+    "id": 90,
+    "name": "Sample User 90",
+    "profile": {
+      "age": 33,
+      "location": "Netherlands",
+      "skills": [
+        "research",
+        "data analysis",
+        "statistics",
+        "ml",
+        "networking"
+      ],
+      "goals": [
+        "deep expertise",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 20,
+    "seed": 1714
+  },
+  {
+    "id": 91,
+    "name": "Sample User 91",
+    "profile": {
+      "age": 28,
+      "location": "UK",
+      "skills": [
+        "communication",
+        "leadership",
+        "networking",
+        "cloud",
+        "public speaking"
+      ],
+      "goals": [
+        "impact",
+        "freedom",
+        "financial stability",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 7552
+  },
+  {
+    "id": 92,
+    "name": "Sample User 92",
+    "profile": {
+      "age": 22,
+      "location": "Singapore",
+      "skills": [
+        "product thinking",
+        "statistics",
+        "cloud"
+      ],
+      "goals": [
+        "freedom",
+        "global career",
+        "deep expertise",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 2066
+  },
+  {
+    "id": 93,
+    "name": "Sample User 93",
+    "profile": {
+      "age": 28,
+      "location": "Australia",
+      "skills": [
+        "public speaking",
+        "networking",
+        "system design",
+        "research",
+        "cloud",
+        "data analysis"
+      ],
+      "goals": [
+        "freedom",
+        "work-life balance",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 12,
+    "seed": 5376
+  },
+  {
+    "id": 94,
+    "name": "Sample User 94",
+    "profile": {
+      "age": 24,
+      "location": "US",
+      "skills": [
+        "networking",
+        "communication",
+        "ml",
+        "cloud",
+        "system design"
+      ],
+      "goals": [
+        "freedom",
+        "financial stability",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 4601
+  },
+  {
+    "id": 95,
+    "name": "Sample User 95",
+    "profile": {
+      "age": 24,
+      "location": "Germany",
+      "skills": [
+        "writing",
+        "python",
+        "networking",
+        "leadership",
+        "statistics",
+        "system design"
+      ],
+      "goals": [
+        "leadership",
+        "deep expertise",
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 1000,
+    "years": 18,
+    "seed": 9405
+  },
+  {
+    "id": 96,
+    "name": "Sample User 96",
+    "profile": {
+      "age": 31,
+      "location": "Australia",
+      "skills": [
+        "public speaking",
+        "networking",
+        "cloud",
+        "statistics"
+      ],
+      "goals": [
+        "freedom",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 6875
+  },
+  {
+    "id": 97,
+    "name": "Sample User 97",
+    "profile": {
+      "age": 25,
+      "location": "India",
+      "skills": [
+        "networking",
+        "cloud",
+        "public speaking",
+        "ml",
+        "data analysis",
+        "leadership"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "impact",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 18,
+    "seed": 1743
+  },
+  {
+    "id": 98,
+    "name": "Sample User 98",
+    "profile": {
+      "age": 19,
+      "location": "India",
+      "skills": [
+        "research",
+        "system design",
+        "ml",
+        "networking",
+        "cloud"
+      ],
+      "goals": [
+        "financial stability",
+        "global career",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 800,
+    "years": 15,
+    "seed": 8548
+  },
+  {
+    "id": 99,
+    "name": "Sample User 99",
+    "profile": {
+      "age": 28,
+      "location": "India",
+      "skills": [
+        "networking",
+        "writing",
+        "system design",
+        "ml",
+        "leadership",
+        "communication"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship",
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 6891
+  },
+  {
+    "id": 100,
+    "name": "Sample User 100",
+    "profile": {
+      "age": 29,
+      "location": "US",
+      "skills": [
+        "communication",
+        "system design",
+        "data analysis",
+        "leadership",
+        "research"
+      ],
+      "goals": [
+        "global career",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 7687
+  },
+  {
+    "id": 101,
+    "name": "Sample User 101",
+    "profile": {
+      "age": 35,
+      "location": "Singapore",
+      "skills": [
+        "ml",
+        "product thinking",
+        "public speaking",
+        "leadership"
+      ],
+      "goals": [
+        "leadership",
+        "global career",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 4155
+  },
+  {
+    "id": 102,
+    "name": "Sample User 102",
+    "profile": {
+      "age": 31,
+      "location": "Australia",
+      "skills": [
+        "writing",
+        "python",
+        "data analysis",
+        "product thinking"
+      ],
+      "goals": [
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 6310
+  },
+  {
+    "id": 103,
+    "name": "Sample User 103",
+    "profile": {
+      "age": 19,
+      "location": "Singapore",
+      "skills": [
+        "statistics",
+        "product thinking",
+        "ml"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship",
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "ms_then_industry",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 400,
+    "years": 20,
+    "seed": 1664
+  },
+  {
+    "id": 104,
+    "name": "Sample User 104",
+    "profile": {
+      "age": 22,
+      "location": "Singapore",
+      "skills": [
+        "ml",
+        "writing",
+        "product thinking",
+        "cloud"
+      ],
+      "goals": [
+        "global career",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 3492
+  },
+  {
+    "id": 105,
+    "name": "Sample User 105",
+    "profile": {
+      "age": 34,
+      "location": "Netherlands",
+      "skills": [
+        "networking",
+        "writing",
+        "public speaking"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 7936
+  },
+  {
+    "id": 106,
+    "name": "Sample User 106",
+    "profile": {
+      "age": 32,
+      "location": "Singapore",
+      "skills": [
+        "networking",
+        "writing",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 18,
+    "seed": 6144
+  },
+  {
+    "id": 107,
+    "name": "Sample User 107",
+    "profile": {
+      "age": 31,
+      "location": "Netherlands",
+      "skills": [
+        "public speaking",
+        "communication",
+        "ml",
+        "product thinking",
+        "python",
+        "research"
+      ],
+      "goals": [
+        "impact",
+        "work-life balance",
+        "global career",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 556
+  },
+  {
+    "id": 108,
+    "name": "Sample User 108",
+    "profile": {
+      "age": 24,
+      "location": "Singapore",
+      "skills": [
+        "public speaking",
+        "ml",
+        "product thinking",
+        "communication",
+        "cloud",
+        "research"
+      ],
+      "goals": [
+        "deep expertise",
+        "freedom",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 8090
+  },
+  {
+    "id": 109,
+    "name": "Sample User 109",
+    "profile": {
+      "age": 30,
+      "location": "Canada",
+      "skills": [
+        "research",
+        "data analysis",
+        "cloud",
+        "product thinking",
+        "system design"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "global career",
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 657
+  },
+  {
+    "id": 110,
+    "name": "Sample User 110",
+    "profile": {
+      "age": 30,
+      "location": "Canada",
+      "skills": [
+        "research",
+        "statistics",
+        "python",
+        "leadership",
+        "data analysis",
+        "communication"
+      ],
+      "goals": [
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "research_scientist"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 1360
+  },
+  {
+    "id": 111,
+    "name": "Sample User 111",
+    "profile": {
+      "age": 24,
+      "location": "India",
+      "skills": [
+        "public speaking",
+        "cloud",
+        "writing"
+      ],
+      "goals": [
+        "freedom",
+        "impact",
+        "work-life balance",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 5069
+  },
+  {
+    "id": 112,
+    "name": "Sample User 112",
+    "profile": {
+      "age": 35,
+      "location": "India",
+      "skills": [
+        "data analysis",
+        "ml",
+        "leadership",
+        "python",
+        "product thinking"
+      ],
+      "goals": [
+        "global career",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "research_scientist",
+        "faang_engineer"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 6899
+  },
+  {
+    "id": 113,
+    "name": "Sample User 113",
+    "profile": {
+      "age": 30,
+      "location": "UK",
+      "skills": [
+        "communication",
+        "python",
+        "public speaking",
+        "leadership",
+        "ml",
+        "writing"
+      ],
+      "goals": [
+        "financial stability",
+        "impact",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 10,
+    "seed": 1994
+  },
+  {
+    "id": 114,
+    "name": "Sample User 114",
+    "profile": {
+      "age": 20,
+      "location": "Canada",
+      "skills": [
+        "communication",
+        "ml",
+        "writing",
+        "python"
+      ],
+      "goals": [
+        "deep expertise",
+        "entrepreneurship",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder",
+        "faang_engineer",
+        "research_scientist"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 4803
+  },
+  {
+    "id": 115,
+    "name": "Sample User 115",
+    "profile": {
+      "age": 35,
+      "location": "Singapore",
+      "skills": [
+        "writing",
+        "public speaking",
+        "data analysis",
+        "python",
+        "statistics",
+        "research"
+      ],
+      "goals": [
+        "impact",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "research_scientist",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 2720
+  },
+  {
+    "id": 116,
+    "name": "Sample User 116",
+    "profile": {
+      "age": 33,
+      "location": "Canada",
+      "skills": [
+        "product thinking",
+        "cloud",
+        "statistics"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "deep expertise",
+        "work-life balance",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 7815
+  },
+  {
+    "id": 117,
+    "name": "Sample User 117",
+    "profile": {
+      "age": 30,
+      "location": "UK",
+      "skills": [
+        "data analysis",
+        "statistics",
+        "product thinking",
+        "cloud",
+        "networking",
+        "python"
+      ],
+      "goals": [
+        "work-life balance",
+        "global career",
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 6347
+  },
+  {
+    "id": 118,
+    "name": "Sample User 118",
+    "profile": {
+      "age": 30,
+      "location": "Singapore",
+      "skills": [
+        "cloud",
+        "writing",
+        "data analysis",
+        "python"
+      ],
+      "goals": [
+        "leadership",
+        "freedom",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 9371
+  },
+  {
+    "id": 119,
+    "name": "Sample User 119",
+    "profile": {
+      "age": 22,
+      "location": "India",
+      "skills": [
+        "cloud",
+        "research",
+        "public speaking",
+        "writing",
+        "product thinking"
+      ],
+      "goals": [
+        "financial stability",
+        "leadership",
+        "global career",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 7624
+  },
+  {
+    "id": 120,
+    "name": "Sample User 120",
+    "profile": {
+      "age": 24,
+      "location": "Singapore",
+      "skills": [
+        "statistics",
+        "python",
+        "leadership",
+        "writing",
+        "research"
+      ],
+      "goals": [
+        "work-life balance",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 1000,
+    "years": 20,
+    "seed": 5260
+  },
+  {
+    "id": 121,
+    "name": "Sample User 121",
+    "profile": {
+      "age": 33,
+      "location": "Canada",
+      "skills": [
+        "system design",
+        "cloud",
+        "networking",
+        "communication"
+      ],
+      "goals": [
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "research_scientist",
+        "crypto_trader"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 8082
+  },
+  {
+    "id": 122,
+    "name": "Sample User 122",
+    "profile": {
+      "age": 29,
+      "location": "India",
+      "skills": [
+        "product thinking",
+        "public speaking",
+        "writing"
+      ],
+      "goals": [
+        "freedom",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer",
+        "indie_hacker",
+        "research_scientist"
+      ]
+    },
+    "universes": 200,
+    "years": 10,
+    "seed": 3353
+  },
+  {
+    "id": 123,
+    "name": "Sample User 123",
+    "profile": {
+      "age": 33,
+      "location": "US",
+      "skills": [
+        "data analysis",
+        "cloud",
+        "leadership",
+        "communication"
+      ],
+      "goals": [
+        "freedom",
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "research_scientist"
+      ]
+    },
+    "universes": 200,
+    "years": 10,
+    "seed": 571
+  },
+  {
+    "id": 124,
+    "name": "Sample User 124",
+    "profile": {
+      "age": 35,
+      "location": "UK",
+      "skills": [
+        "networking",
+        "writing",
+        "cloud",
+        "communication",
+        "leadership"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 2617
+  },
+  {
+    "id": 125,
+    "name": "Sample User 125",
+    "profile": {
+      "age": 29,
+      "location": "Netherlands",
+      "skills": [
+        "networking",
+        "system design",
+        "ml",
+        "python"
+      ],
+      "goals": [
+        "work-life balance",
+        "impact",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 10,
+    "seed": 2373
+  },
+  {
+    "id": 126,
+    "name": "Sample User 126",
+    "profile": {
+      "age": 28,
+      "location": "UK",
+      "skills": [
+        "system design",
+        "public speaking",
+        "data analysis"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "global career",
+        "work-life balance",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "crypto_trader",
+        "indie_hacker"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 7886
+  },
+  {
+    "id": 127,
+    "name": "Sample User 127",
+    "profile": {
+      "age": 30,
+      "location": "Australia",
+      "skills": [
+        "writing",
+        "system design",
+        "ml",
+        "python"
+      ],
+      "goals": [
+        "deep expertise",
+        "global career",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 7328
+  },
+  {
+    "id": 128,
+    "name": "Sample User 128",
+    "profile": {
+      "age": 21,
+      "location": "India",
+      "skills": [
+        "python",
+        "public speaking",
+        "communication",
+        "writing",
+        "product thinking",
+        "research"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 18,
+    "seed": 9067
+  },
+  {
+    "id": 129,
+    "name": "Sample User 129",
+    "profile": {
+      "age": 22,
+      "location": "Netherlands",
+      "skills": [
+        "ml",
+        "data analysis",
+        "leadership",
+        "public speaking",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "leadership",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 7475
+  },
+  {
+    "id": 130,
+    "name": "Sample User 130",
+    "profile": {
+      "age": 33,
+      "location": "Australia",
+      "skills": [
+        "ml",
+        "research",
+        "python"
+      ],
+      "goals": [
+        "deep expertise",
+        "leadership",
+        "entrepreneurship",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 500,
+    "years": 15,
+    "seed": 3911
+  },
+  {
+    "id": 131,
+    "name": "Sample User 131",
+    "profile": {
+      "age": 25,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "data analysis",
+        "cloud"
+      ],
+      "goals": [
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry",
+        "startup_founder",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 7259
+  },
+  {
+    "id": 132,
+    "name": "Sample User 132",
+    "profile": {
+      "age": 18,
+      "location": "Germany",
+      "skills": [
+        "ml",
+        "product thinking",
+        "leadership",
+        "python",
+        "public speaking"
+      ],
+      "goals": [
+        "leadership",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 3223
+  },
+  {
+    "id": 133,
+    "name": "Sample User 133",
+    "profile": {
+      "age": 20,
+      "location": "India",
+      "skills": [
+        "statistics",
+        "networking",
+        "writing"
+      ],
+      "goals": [
+        "freedom",
+        "financial stability",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "ms_then_industry",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 200,
+    "years": 20,
+    "seed": 6687
+  },
+  {
+    "id": 134,
+    "name": "Sample User 134",
+    "profile": {
+      "age": 19,
+      "location": "Canada",
+      "skills": [
+        "product thinking",
+        "data analysis",
+        "public speaking",
+        "writing",
+        "communication"
+      ],
+      "goals": [
+        "global career",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 15,
+    "seed": 601
+  },
+  {
+    "id": 135,
+    "name": "Sample User 135",
+    "profile": {
+      "age": 23,
+      "location": "India",
+      "skills": [
+        "statistics",
+        "cloud",
+        "python",
+        "product thinking",
+        "research"
+      ],
+      "goals": [
+        "financial stability",
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "faang_engineer",
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 8107
+  },
+  {
+    "id": 136,
+    "name": "Sample User 136",
+    "profile": {
+      "age": 32,
+      "location": "Canada",
+      "skills": [
+        "research",
+        "cloud",
+        "ml"
+      ],
+      "goals": [
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 4104
+  },
+  {
+    "id": 137,
+    "name": "Sample User 137",
+    "profile": {
+      "age": 35,
+      "location": "Netherlands",
+      "skills": [
+        "python",
+        "communication",
+        "system design"
+      ],
+      "goals": [
+        "impact",
+        "global career",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 1539
+  },
+  {
+    "id": 138,
+    "name": "Sample User 138",
+    "profile": {
+      "age": 23,
+      "location": "Germany",
+      "skills": [
+        "data analysis",
+        "communication",
+        "writing"
+      ],
+      "goals": [
+        "leadership",
+        "impact",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 2413
+  },
+  {
+    "id": 139,
+    "name": "Sample User 139",
+    "profile": {
+      "age": 32,
+      "location": "UK",
+      "skills": [
+        "ml",
+        "python",
+        "public speaking",
+        "leadership",
+        "statistics",
+        "networking"
+      ],
+      "goals": [
+        "impact",
+        "global career",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 1000,
+    "years": 20,
+    "seed": 5254
+  },
+  {
+    "id": 140,
+    "name": "Sample User 140",
+    "profile": {
+      "age": 30,
+      "location": "US",
+      "skills": [
+        "product thinking",
+        "research",
+        "ml"
+      ],
+      "goals": [
+        "work-life balance",
+        "financial stability",
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 18,
+    "seed": 3290
+  },
+  {
+    "id": 141,
+    "name": "Sample User 141",
+    "profile": {
+      "age": 34,
+      "location": "Singapore",
+      "skills": [
+        "system design",
+        "ml",
+        "leadership"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "work-life balance",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "indie_hacker"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 4480
+  },
+  {
+    "id": 142,
+    "name": "Sample User 142",
+    "profile": {
+      "age": 35,
+      "location": "US",
+      "skills": [
+        "statistics",
+        "communication",
+        "data analysis"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 2736
+  },
+  {
+    "id": 143,
+    "name": "Sample User 143",
+    "profile": {
+      "age": 21,
+      "location": "Canada",
+      "skills": [
+        "statistics",
+        "research",
+        "data analysis"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 400,
+    "years": 18,
+    "seed": 9460
+  },
+  {
+    "id": 144,
+    "name": "Sample User 144",
+    "profile": {
+      "age": 27,
+      "location": "Netherlands",
+      "skills": [
+        "system design",
+        "networking",
+        "communication",
+        "research",
+        "data analysis"
+      ],
+      "goals": [
+        "deep expertise",
+        "work-life balance",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer"
+      ]
+    },
+    "universes": 600,
+    "years": 15,
+    "seed": 7830
+  },
+  {
+    "id": 145,
+    "name": "Sample User 145",
+    "profile": {
+      "age": 33,
+      "location": "Australia",
+      "skills": [
+        "python",
+        "system design",
+        "product thinking",
+        "networking",
+        "statistics"
+      ],
+      "goals": [
+        "global career",
+        "leadership",
+        "deep expertise",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 500,
+    "years": 15,
+    "seed": 4667
+  },
+  {
+    "id": 146,
+    "name": "Sample User 146",
+    "profile": {
+      "age": 24,
+      "location": "US",
+      "skills": [
+        "python",
+        "cloud",
+        "ml",
+        "research",
+        "communication"
+      ],
+      "goals": [
+        "work-life balance",
+        "deep expertise",
+        "entrepreneurship",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 2532
+  },
+  {
+    "id": 147,
+    "name": "Sample User 147",
+    "profile": {
+      "age": 31,
+      "location": "US",
+      "skills": [
+        "public speaking",
+        "product thinking",
+        "ml",
+        "system design",
+        "data analysis"
+      ],
+      "goals": [
+        "financial stability",
+        "work-life balance",
+        "global career",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 200,
+    "years": 18,
+    "seed": 9011
+  },
+  {
+    "id": 148,
+    "name": "Sample User 148",
+    "profile": {
+      "age": 21,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "statistics",
+        "ml",
+        "cloud",
+        "data analysis",
+        "communication"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "work-life balance",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 500,
+    "years": 20,
+    "seed": 9099
+  },
+  {
+    "id": 149,
+    "name": "Sample User 149",
+    "profile": {
+      "age": 30,
+      "location": "UK",
+      "skills": [
+        "python",
+        "networking",
+        "writing",
+        "leadership",
+        "public speaking"
+      ],
+      "goals": [
+        "freedom",
+        "leadership",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 1441
+  },
+  {
+    "id": 150,
+    "name": "Sample User 150",
+    "profile": {
+      "age": 28,
+      "location": "Singapore",
+      "skills": [
+        "statistics",
+        "system design",
+        "product thinking",
+        "networking",
+        "leadership"
+      ],
+      "goals": [
+        "impact",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "faang_engineer"
+      ]
+    },
+    "universes": 600,
+    "years": 20,
+    "seed": 7163
+  },
+  {
+    "id": 151,
+    "name": "Sample User 151",
+    "profile": {
+      "age": 34,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "writing",
+        "product thinking",
+        "python",
+        "public speaking",
+        "networking"
+      ],
+      "goals": [
+        "financial stability",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 18,
+    "seed": 9197
+  },
+  {
+    "id": 152,
+    "name": "Sample User 152",
+    "profile": {
+      "age": 22,
+      "location": "Australia",
+      "skills": [
+        "leadership",
+        "writing",
+        "cloud",
+        "networking"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship",
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 8399
+  },
+  {
+    "id": 153,
+    "name": "Sample User 153",
+    "profile": {
+      "age": 23,
+      "location": "UK",
+      "skills": [
+        "public speaking",
+        "data analysis",
+        "product thinking"
+      ],
+      "goals": [
+        "global career",
+        "work-life balance",
+        "financial stability",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 9257
+  },
+  {
+    "id": 154,
+    "name": "Sample User 154",
+    "profile": {
+      "age": 21,
+      "location": "UK",
+      "skills": [
+        "statistics",
+        "public speaking",
+        "networking",
+        "python",
+        "leadership"
+      ],
+      "goals": [
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "indie_hacker",
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 9605
+  },
+  {
+    "id": 155,
+    "name": "Sample User 155",
+    "profile": {
+      "age": 18,
+      "location": "US",
+      "skills": [
+        "system design",
+        "ml",
+        "writing"
+      ],
+      "goals": [
+        "leadership",
+        "global career",
+        "work-life balance",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "crypto_trader",
+        "research_scientist"
+      ]
+    },
+    "universes": 300,
+    "years": 12,
+    "seed": 8494
+  },
+  {
+    "id": 156,
+    "name": "Sample User 156",
+    "profile": {
+      "age": 34,
+      "location": "India",
+      "skills": [
+        "python",
+        "communication",
+        "networking"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 5290
+  },
+  {
+    "id": 157,
+    "name": "Sample User 157",
+    "profile": {
+      "age": 22,
+      "location": "Netherlands",
+      "skills": [
+        "product thinking",
+        "data analysis",
+        "ml",
+        "python"
+      ],
+      "goals": [
+        "financial stability",
+        "global career",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 600,
+    "years": 18,
+    "seed": 321
+  },
+  {
+    "id": 158,
+    "name": "Sample User 158",
+    "profile": {
+      "age": 19,
+      "location": "Canada",
+      "skills": [
+        "leadership",
+        "statistics",
+        "python",
+        "writing"
+      ],
+      "goals": [
+        "deep expertise",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 7462
+  },
+  {
+    "id": 159,
+    "name": "Sample User 159",
+    "profile": {
+      "age": 27,
+      "location": "Canada",
+      "skills": [
+        "statistics",
+        "data analysis",
+        "writing",
+        "communication",
+        "system design",
+        "leadership"
+      ],
+      "goals": [
+        "deep expertise",
+        "entrepreneurship",
+        "freedom",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "startup_founder",
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 6210
+  },
+  {
+    "id": 160,
+    "name": "Sample User 160",
+    "profile": {
+      "age": 23,
+      "location": "US",
+      "skills": [
+        "data analysis",
+        "leadership",
+        "research"
+      ],
+      "goals": [
+        "financial stability",
+        "freedom",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 500,
+    "years": 15,
+    "seed": 9075
+  },
+  {
+    "id": 161,
+    "name": "Sample User 161",
+    "profile": {
+      "age": 25,
+      "location": "Germany",
+      "skills": [
+        "system design",
+        "writing",
+        "data analysis",
+        "product thinking",
+        "cloud",
+        "leadership"
+      ],
+      "goals": [
+        "leadership",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 1518
+  },
+  {
+    "id": 162,
+    "name": "Sample User 162",
+    "profile": {
+      "age": 24,
+      "location": "Germany",
+      "skills": [
+        "research",
+        "ml",
+        "cloud",
+        "writing",
+        "statistics"
+      ],
+      "goals": [
+        "freedom",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 400,
+    "years": 18,
+    "seed": 8272
+  },
+  {
+    "id": 163,
+    "name": "Sample User 163",
+    "profile": {
+      "age": 24,
+      "location": "Germany",
+      "skills": [
+        "writing",
+        "public speaking",
+        "ml",
+        "data analysis"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "leadership",
+        "freedom",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 300,
+    "years": 10,
+    "seed": 8406
+  },
+  {
+    "id": 164,
+    "name": "Sample User 164",
+    "profile": {
+      "age": 20,
+      "location": "Germany",
+      "skills": [
+        "networking",
+        "leadership",
+        "python",
+        "statistics",
+        "ml"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 1786
+  },
+  {
+    "id": 165,
+    "name": "Sample User 165",
+    "profile": {
+      "age": 20,
+      "location": "Singapore",
+      "skills": [
+        "cloud",
+        "research",
+        "data analysis",
+        "system design",
+        "communication"
+      ],
+      "goals": [
+        "leadership",
+        "impact",
+        "financial stability",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "research_scientist"
+      ]
+    },
+    "universes": 400,
+    "years": 18,
+    "seed": 7610
+  },
+  {
+    "id": 166,
+    "name": "Sample User 166",
+    "profile": {
+      "age": 22,
+      "location": "Singapore",
+      "skills": [
+        "ml",
+        "python",
+        "product thinking",
+        "public speaking",
+        "leadership"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "startup_founder",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 9977
+  },
+  {
+    "id": 167,
+    "name": "Sample User 167",
+    "profile": {
+      "age": 25,
+      "location": "Singapore",
+      "skills": [
+        "leadership",
+        "python",
+        "statistics"
+      ],
+      "goals": [
+        "global career",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 9250
+  },
+  {
+    "id": 168,
+    "name": "Sample User 168",
+    "profile": {
+      "age": 25,
+      "location": "US",
+      "skills": [
+        "networking",
+        "research",
+        "data analysis",
+        "leadership",
+        "product thinking",
+        "python"
+      ],
+      "goals": [
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 15,
+    "seed": 3443
+  },
+  {
+    "id": 169,
+    "name": "Sample User 169",
+    "profile": {
+      "age": 29,
+      "location": "Netherlands",
+      "skills": [
+        "leadership",
+        "networking",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "freedom",
+        "leadership",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 600,
+    "years": 10,
+    "seed": 3375
+  },
+  {
+    "id": 170,
+    "name": "Sample User 170",
+    "profile": {
+      "age": 31,
+      "location": "India",
+      "skills": [
+        "writing",
+        "system design",
+        "python",
+        "research"
+      ],
+      "goals": [
+        "freedom",
+        "leadership",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 5690
+  },
+  {
+    "id": 171,
+    "name": "Sample User 171",
+    "profile": {
+      "age": 31,
+      "location": "Germany",
+      "skills": [
+        "system design",
+        "public speaking",
+        "data analysis"
+      ],
+      "goals": [
+        "freedom",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "crypto_trader",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 20,
+    "seed": 7292
+  },
+  {
+    "id": 172,
+    "name": "Sample User 172",
+    "profile": {
+      "age": 22,
+      "location": "Netherlands",
+      "skills": [
+        "networking",
+        "data analysis",
+        "ml",
+        "public speaking",
+        "system design"
+      ],
+      "goals": [
+        "financial stability",
+        "leadership",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 18,
+    "seed": 3381
+  },
+  {
+    "id": 173,
+    "name": "Sample User 173",
+    "profile": {
+      "age": 21,
+      "location": "Netherlands",
+      "skills": [
+        "python",
+        "product thinking",
+        "writing",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 200,
+    "years": 12,
+    "seed": 5317
+  },
+  {
+    "id": 174,
+    "name": "Sample User 174",
+    "profile": {
+      "age": 32,
+      "location": "US",
+      "skills": [
+        "statistics",
+        "product thinking",
+        "data analysis",
+        "ml",
+        "research",
+        "communication"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "faang_engineer",
+        "indie_hacker"
+      ]
+    },
+    "universes": 800,
+    "years": 18,
+    "seed": 7115
+  },
+  {
+    "id": 175,
+    "name": "Sample User 175",
+    "profile": {
+      "age": 33,
+      "location": "Canada",
+      "skills": [
+        "cloud",
+        "research",
+        "product thinking",
+        "python"
+      ],
+      "goals": [
+        "financial stability",
+        "work-life balance",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 10,
+    "seed": 415
+  },
+  {
+    "id": 176,
+    "name": "Sample User 176",
+    "profile": {
+      "age": 30,
+      "location": "Australia",
+      "skills": [
+        "data analysis",
+        "product thinking",
+        "ml",
+        "research"
+      ],
+      "goals": [
+        "freedom",
+        "impact",
+        "work-life balance",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "research_scientist",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 6038
+  },
+  {
+    "id": 177,
+    "name": "Sample User 177",
+    "profile": {
+      "age": 22,
+      "location": "US",
+      "skills": [
+        "data analysis",
+        "system design",
+        "python",
+        "public speaking",
+        "communication"
+      ],
+      "goals": [
+        "global career",
+        "impact",
+        "financial stability",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "ms_then_industry",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 12,
+    "seed": 2682
+  },
+  {
+    "id": 178,
+    "name": "Sample User 178",
+    "profile": {
+      "age": 22,
+      "location": "Canada",
+      "skills": [
+        "public speaking",
+        "leadership",
+        "communication",
+        "python",
+        "writing",
+        "research"
+      ],
+      "goals": [
+        "deep expertise",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader",
+        "research_scientist"
+      ]
+    },
+    "universes": 400,
+    "years": 10,
+    "seed": 907
+  },
+  {
+    "id": 179,
+    "name": "Sample User 179",
+    "profile": {
+      "age": 34,
+      "location": "US",
+      "skills": [
+        "product thinking",
+        "communication",
+        "writing",
+        "python",
+        "ml",
+        "research"
+      ],
+      "goals": [
+        "leadership",
+        "impact",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "faang_engineer",
+        "ms_then_industry",
+        "research_scientist"
+      ]
+    },
+    "universes": 600,
+    "years": 15,
+    "seed": 8467
+  },
+  {
+    "id": 180,
+    "name": "Sample User 180",
+    "profile": {
+      "age": 32,
+      "location": "Canada",
+      "skills": [
+        "research",
+        "public speaking",
+        "ml",
+        "leadership",
+        "communication",
+        "python"
+      ],
+      "goals": [
+        "work-life balance",
+        "leadership",
+        "entrepreneurship",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "research_scientist",
+        "faang_engineer",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 8691
+  },
+  {
+    "id": 181,
+    "name": "Sample User 181",
+    "profile": {
+      "age": 18,
+      "location": "Netherlands",
+      "skills": [
+        "system design",
+        "public speaking",
+        "writing",
+        "communication"
+      ],
+      "goals": [
+        "work-life balance",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 500,
+    "years": 15,
+    "seed": 1872
+  },
+  {
+    "id": 182,
+    "name": "Sample User 182",
+    "profile": {
+      "age": 25,
+      "location": "Netherlands",
+      "skills": [
+        "system design",
+        "research",
+        "communication",
+        "cloud"
+      ],
+      "goals": [
+        "financial stability",
+        "entrepreneurship",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "ms_then_industry",
+        "crypto_trader"
+      ]
+    },
+    "universes": 300,
+    "years": 20,
+    "seed": 9384
+  },
+  {
+    "id": 183,
+    "name": "Sample User 183",
+    "profile": {
+      "age": 21,
+      "location": "UK",
+      "skills": [
+        "leadership",
+        "public speaking",
+        "communication"
+      ],
+      "goals": [
+        "freedom",
+        "global career",
+        "leadership"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 600,
+    "years": 12,
+    "seed": 3140
+  },
+  {
+    "id": 184,
+    "name": "Sample User 184",
+    "profile": {
+      "age": 33,
+      "location": "India",
+      "skills": [
+        "ml",
+        "product thinking",
+        "statistics"
+      ],
+      "goals": [
+        "global career",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 20,
+    "seed": 3492
+  },
+  {
+    "id": 185,
+    "name": "Sample User 185",
+    "profile": {
+      "age": 32,
+      "location": "India",
+      "skills": [
+        "communication",
+        "networking",
+        "ml",
+        "leadership",
+        "cloud"
+      ],
+      "goals": [
+        "deep expertise",
+        "leadership",
+        "impact",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 1000,
+    "years": 15,
+    "seed": 2011
+  },
+  {
+    "id": 186,
+    "name": "Sample User 186",
+    "profile": {
+      "age": 25,
+      "location": "India",
+      "skills": [
+        "research",
+        "networking",
+        "cloud",
+        "product thinking",
+        "writing"
+      ],
+      "goals": [
+        "work-life balance",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 800,
+    "years": 12,
+    "seed": 4172
+  },
+  {
+    "id": 187,
+    "name": "Sample User 187",
+    "profile": {
+      "age": 29,
+      "location": "Canada",
+      "skills": [
+        "networking",
+        "writing",
+        "python",
+        "statistics"
+      ],
+      "goals": [
+        "financial stability",
+        "global career",
+        "impact"
+      ],
+      "decisions_under_consideration": [
+        "startup_founder",
+        "crypto_trader",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 20,
+    "seed": 4752
+  },
+  {
+    "id": 188,
+    "name": "Sample User 188",
+    "profile": {
+      "age": 30,
+      "location": "Netherlands",
+      "skills": [
+        "statistics",
+        "data analysis",
+        "research",
+        "networking"
+      ],
+      "goals": [
+        "impact",
+        "entrepreneurship",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "indie_hacker"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 581
+  },
+  {
+    "id": 189,
+    "name": "Sample User 189",
+    "profile": {
+      "age": 20,
+      "location": "Australia",
+      "skills": [
+        "statistics",
+        "public speaking",
+        "networking",
+        "cloud"
+      ],
+      "goals": [
+        "entrepreneurship",
+        "financial stability",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "ms_then_industry",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 20,
+    "seed": 3545
+  },
+  {
+    "id": 190,
+    "name": "Sample User 190",
+    "profile": {
+      "age": 27,
+      "location": "UK",
+      "skills": [
+        "statistics",
+        "cloud",
+        "python",
+        "system design"
+      ],
+      "goals": [
+        "work-life balance",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "indie_hacker",
+        "research_scientist"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 99
+  },
+  {
+    "id": 191,
+    "name": "Sample User 191",
+    "profile": {
+      "age": 28,
+      "location": "Singapore",
+      "skills": [
+        "product thinking",
+        "system design",
+        "python",
+        "networking",
+        "writing",
+        "public speaking"
+      ],
+      "goals": [
+        "freedom",
+        "work-life balance",
+        "global career",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "faang_engineer",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 20,
+    "seed": 9397
+  },
+  {
+    "id": 192,
+    "name": "Sample User 192",
+    "profile": {
+      "age": 34,
+      "location": "Germany",
+      "skills": [
+        "networking",
+        "python",
+        "research",
+        "communication"
+      ],
+      "goals": [
+        "global career",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "crypto_trader",
+        "startup_founder",
+        "faang_engineer",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 12,
+    "seed": 1181
+  },
+  {
+    "id": 193,
+    "name": "Sample User 193",
+    "profile": {
+      "age": 27,
+      "location": "Germany",
+      "skills": [
+        "networking",
+        "product thinking",
+        "research",
+        "system design",
+        "cloud"
+      ],
+      "goals": [
+        "global career",
+        "freedom",
+        "impact",
+        "entrepreneurship"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "crypto_trader",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 12,
+    "seed": 2222
+  },
+  {
+    "id": 194,
+    "name": "Sample User 194",
+    "profile": {
+      "age": 24,
+      "location": "Canada",
+      "skills": [
+        "public speaking",
+        "writing",
+        "leadership"
+      ],
+      "goals": [
+        "global career",
+        "leadership",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 4131
+  },
+  {
+    "id": 195,
+    "name": "Sample User 195",
+    "profile": {
+      "age": 35,
+      "location": "Canada",
+      "skills": [
+        "communication",
+        "system design",
+        "statistics",
+        "cloud",
+        "ml"
+      ],
+      "goals": [
+        "work-life balance",
+        "deep expertise",
+        "freedom"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "startup_founder",
+        "crypto_trader",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 8954
+  },
+  {
+    "id": 196,
+    "name": "Sample User 196",
+    "profile": {
+      "age": 18,
+      "location": "US",
+      "skills": [
+        "public speaking",
+        "data analysis",
+        "system design",
+        "python"
+      ],
+      "goals": [
+        "impact",
+        "deep expertise"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 12,
+    "seed": 931
+  },
+  {
+    "id": 197,
+    "name": "Sample User 197",
+    "profile": {
+      "age": 22,
+      "location": "India",
+      "skills": [
+        "communication",
+        "cloud",
+        "statistics"
+      ],
+      "goals": [
+        "freedom",
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "indie_hacker",
+        "startup_founder",
+        "faang_engineer"
+      ]
+    },
+    "universes": 300,
+    "years": 15,
+    "seed": 5354
+  },
+  {
+    "id": 198,
+    "name": "Sample User 198",
+    "profile": {
+      "age": 18,
+      "location": "Netherlands",
+      "skills": [
+        "leadership",
+        "statistics",
+        "public speaking",
+        "product thinking",
+        "ml",
+        "python"
+      ],
+      "goals": [
+        "impact",
+        "entrepreneurship",
+        "work-life balance"
+      ],
+      "decisions_under_consideration": [
+        "faang_engineer",
+        "research_scientist",
+        "indie_hacker",
+        "ms_then_industry"
+      ]
+    },
+    "universes": 1000,
+    "years": 10,
+    "seed": 422
+  },
+  {
+    "id": 199,
+    "name": "Sample User 199",
+    "profile": {
+      "age": 28,
+      "location": "US",
+      "skills": [
+        "python",
+        "leadership",
+        "statistics",
+        "product thinking",
+        "ml"
+      ],
+      "goals": [
+        "impact",
+        "financial stability"
+      ],
+      "decisions_under_consideration": [
+        "ms_then_industry",
+        "indie_hacker"
+      ]
+    },
+    "universes": 400,
+    "years": 15,
+    "seed": 6935
+  },
+  {
+    "id": 200,
+    "name": "Sample User 200",
+    "profile": {
+      "age": 29,
+      "location": "Netherlands",
+      "skills": [
+        "public speaking",
+        "statistics",
+        "networking",
+        "product thinking"
+      ],
+      "goals": [
+        "leadership",
+        "global career"
+      ],
+      "decisions_under_consideration": [
+        "research_scientist",
+        "startup_founder",
+        "faang_engineer",
+        "crypto_trader"
+      ]
+    },
+    "universes": 600,
+    "years": 15,
+    "seed": 5921
+  }
+]
